@@ -1,0 +1,1 @@
+/* calculate average air value in air table inside sashelp */
